@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **student management system**
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **React js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sujalamatya](https://github.com/sujalamatya)
 
