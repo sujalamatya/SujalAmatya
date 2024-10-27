@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sujal Amatya</h1>
-<h3 align="center">A passionate Java developer from Nepal</h3>
+<h3 align="center">A passionate React developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujalamatya&label=Profile%20views&color=0e75b6&style=flat" alt="sujalamatya" /> </p>
 
