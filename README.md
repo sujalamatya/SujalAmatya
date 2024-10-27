@@ -27,4 +27,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujalamatya&show_icons=true&locale=en&layout=compact" alt="sujalamatya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujalamatya&" alt="sujalamatya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujalamatya&theme=radical&border_radius=5.8" alt="sujalamatya" /></p>
