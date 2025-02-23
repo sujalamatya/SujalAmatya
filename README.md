@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **a new React project**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **django**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sujalamatya]([https://github.com/sujalamatya)](https://github.com/sujalamatya?tab=repositories)
+- 👨‍💻 All of my projects are available at ([https://github.com/sujalamatya)](https://github.com/sujalamatya?tab=repositories)
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **sujalcr10@gmail.com**
 
