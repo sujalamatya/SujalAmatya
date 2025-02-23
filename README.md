@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sujalamatya](https://github.com/sujalamatya)
+- 👨‍💻 All of my projects are available at [https://github.com/sujalamatya]([https://github.com/sujalamatya)](https://github.com/sujalamatya?tab=repositories)
 
 - 💬 Ask me about **Java**
 
