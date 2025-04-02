@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujalamatya&label=Profile%20views&color=0e75b6&style=flat" alt="sujalamatya" /> </p>
 
-- 🔭 I’m currently working on **a new React project**
+- 🔭 I’m currently working on **Artist Management System**
 
-- 🌱 I’m currently learning **django**
+- 🌱 I’m currently learning **Next.js & django**
 
 - 👨‍💻 All of my projects are available at ([https://github.com/sujalamatya)](https://github.com/sujalamatya?tab=repositories)
 
